@@ -1,0 +1,9 @@
+Package: com.icraze.boomfullscreen
+Name: Boom Fullscreen Patch
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
